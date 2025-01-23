@@ -14,13 +14,7 @@ This is a tribute webpage dedicated to Bruce Lee, the legendary martial artist, 
 
 ## How to View
 1. Download the project files to your local system.
-2. Open the `index.html` file in any modern web browser to view the tribute page.
-
-## Future Enhancements
-- Add CSS styling to improve the visual design of the page.
-- Make the page responsive for better viewing on mobile and tablet devices.
-- Include a gallery section with iconic images of Bruce Lee.
-- Add a timeline showcasing key milestones in his life.
+2. Open the `index.html` file in any modern web browser to view the tribute page. 
 
 ## Inspiration
 This page is a tribute to Bruce Lee, who redefined martial arts and action cinema while breaking cultural barriers. His teachings on self-improvement and pushing beyond limits resonate with audiences to this day.
