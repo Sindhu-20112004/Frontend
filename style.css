@@ -1,0 +1,27 @@
+  body{
+    background: #FFFFE0;
+    margin:0 20%;
+      }
+  h1#tribute-information{
+      text-align : center;
+      font-size: 3rem;
+      text-shadow: 5px 5px 10px royalblue ;
+          }
+  h3#short-intro{
+      font-style:italic;
+      color:#800080;}
+  h2#quote{
+       font-size: 26px;
+      text-shadow:5px 5px 10px blue;
+        }
+  h1#ab{text-shadow:3px 3px 4px yellow ;}
+  img{
+     display: block;
+     width:100%;
+    }
+  div#tribute-information{
+       background: #FFFFF0;
+       box-shadow: 20px 20px 15px;
+       padding: 10px;
+       margin-top: 20px;
+                        }
